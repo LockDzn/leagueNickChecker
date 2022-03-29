@@ -1,7 +1,6 @@
 <p align="center">
 	<h1 align="center">leagueNickChecker</h1>
   <p align="center">bulk check unused nicks in League of Legends</p>
-  
 	<p align="center">
 		<a href="https://asciinema.org/a/481829" target="_blank">
 			<img src=".github/demo.gif" width="450" />
